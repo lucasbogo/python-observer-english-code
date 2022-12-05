@@ -3,7 +3,7 @@ fresh code
 
 #### code refactored from pt-br to en-us from the following repository created to complete a class assigment.```https://github.com/lucasbogo/python-observer```
 
-#### Assigment> create two observers ```User``` and ```Supplier``` for the subject ```Stock```.
+#### Assigment: create two observers ```User``` and ```Supplier``` for the subject ```Stock```.
 
 - the supplier adds, the user buys. Everythin is working perfectly.
 
